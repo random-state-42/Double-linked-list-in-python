@@ -1,2 +1,2 @@
-# Double-linked-list-in-python
-Double Linked list in python
+# Doubly-linked-list-in-python
+Doubly Linked list in python
